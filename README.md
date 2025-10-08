@@ -36,7 +36,7 @@ It’s designed to simulate a real-world data workflow that a Data Engineer or A
 # 🚀 Setup Instructions
 1️⃣ Clone the Repository\
 git clone https://github.com/<your-username>/sales-performance-dashboard.git\
-cd sales-performance-dashboard\
+cd sales-performance-dashboard
 
 2️⃣ Install Python Dependencies\
 pip install -r requirements.txt
