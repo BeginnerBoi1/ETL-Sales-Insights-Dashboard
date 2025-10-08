@@ -9,12 +9,12 @@ storing in MySQL, and creating interactive dashboards in Power BI.
 
 It’s designed to simulate a real-world data workflow that a Data Engineer or Analyst would perform.
 
-### ⚙️ Tech Stack
+# ⚙️ Tech Stack
 -> Python → Data cleaning and preprocessing (using pandas)
 -> MySQL → Data storage and querying
 -> Power BI → Data visualization and dashboard creation
 
-### 📦 ETL-SALES-INSIGHTS-DASHBOARD
+# 📦 ETL-SALES-INSIGHTS-DASHBOARD
  ┣ 📁 data/
  ┃ ┗ superstore.csv           
  ┣ 📁 script/
@@ -24,7 +24,7 @@ It’s designed to simulate a real-world data workflow that a Data Engineer or A
  ┣ 📄 requirements.txt         
  ┣ 📄 README.md                
 
-### 🚀 Setup Instructions
+# 🚀 Setup Instructions
 1️⃣ Clone the Repository
 git clone https://github.com/<your-username>/sales-performance-dashboard.git
 cd sales-performance-dashboard
@@ -45,7 +45,7 @@ Enter your MySQL credentials
 (Host: localhost, Database: sales_db)
 Load the data and explore the dashboard
 
-### 📈 Dashboard Features
+# 📈 Dashboard Features
 ✅ Total Sales & Profit Overview
 ✅ Top Performing Products
 ✅ Regional Sales Breakdown
