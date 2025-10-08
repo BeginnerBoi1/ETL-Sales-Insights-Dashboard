@@ -61,8 +61,6 @@ cleaner.add_surrogate_id()
 cleaner.summarize_nulls()
 cleaner.display_data()
 
-
-
 # connect to MySQL database
 try:
     cleaner.connect_to_db("localhost", "root", "yourpassword", "etl_project")
