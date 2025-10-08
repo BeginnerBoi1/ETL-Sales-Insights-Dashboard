@@ -34,27 +34,27 @@ It’s designed to simulate a real-world data workflow that a Data Engineer or A
  ┣ 📄 README.md                
 
 # 🚀 Setup Instructions
-1️⃣ Clone the Repository
-git clone https://github.com/<your-username>/sales-performance-dashboard.git
-cd sales-performance-dashboard
+1️⃣ Clone the Repository\
+git clone https://github.com/<your-username>/sales-performance-dashboard.git\
+cd sales-performance-dashboard\
 
-2️⃣ Install Python Dependencies
+2️⃣ Install Python Dependencies\
 pip install -r requirements.txt
 
-3️⃣ Load the Data into MySQL
+3️⃣ Load the Data into MySQL\
 Create a MySQL database named etl_project
 Run your MySQL server
 Execute the Python script:
 python scripts/clean_sales_data.py
 
-4️⃣ Connect Power BI to MySQL
-Open Power BI Desktop
-Click Get Data → MySQL Database
-Enter your MySQL credentials
-(Host: localhost, Database: sales_db)
-Load the data and explore the dashboard
+4️⃣ Connect Power BI to MySQL\
+Open Power BI Desktop\
+Click Get Data → MySQL Database\
+Enter your MySQL credentials\
+(Host: localhost, Database: sales_db)\
+Load the data and explore the dashboard\
 
 # 📈 Dashboard Features
-✅ Total Sales & Profit Overview
-✅ Top Performing Products
-✅ Regional Sales Breakdown
+✅ Total Sales & Profit Overview\
+✅ Top Performing Products\
+✅ Regional Sales Breakdown\
