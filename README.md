@@ -11,7 +11,9 @@ It’s designed to simulate a real-world data workflow that a Data Engineer or A
 
 # ⚙️ Tech Stack
 -> Python → Data cleaning and preprocessing (using pandas)
+
 -> MySQL → Data storage and querying
+
 -> Power BI → Data visualization and dashboard creation
 
 # 📦 ETL-SALES-INSIGHTS-DASHBOARD
