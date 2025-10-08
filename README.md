@@ -61,5 +61,5 @@ Load the data and explore the dashboard
 ✅ Regional Sales Breakdown
 
 # PREVIEW
-[![Power BI Dashboard](preview.png)](preview.png)
+[![Power BI Dashboard](preview.png)](preview_image.png)
 
