@@ -1,7 +1,7 @@
 # ETL-Sales-Insights-Dashboard
 
 ### 🧠 Sales Performance Dashboard — Power BI + MySQL + Python
-###📊 Project Overview
+### 📊 Project Overview
 
 This project showcases a Sales Performance Dashboard built using Power BI connected to a MySQL database.
 The goal is to demonstrate a full ETL (Extract, Transform, Load) data pipeline — from data cleaning in Python,
