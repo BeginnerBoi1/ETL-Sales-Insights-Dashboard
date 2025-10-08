@@ -21,7 +21,9 @@ It’s designed to simulate a real-world data workflow that a Data Engineer or A
  
  ┣ 📁 script/
  
- ┃ ┗ main.py
+ ┃ ┗ main.py/
+ 
+ ┃ ┗ create_view.sql
  
  ┣ 📁 powerbi/
  
