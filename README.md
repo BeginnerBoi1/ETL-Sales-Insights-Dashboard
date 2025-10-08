@@ -1,5 +1,6 @@
 # PREVIEW
-![Power BI Dashboard](images/powerbi-dashboard.png)](preview.png)
+[![Power BI Dashboard](preview.png)](preview.png)
+
 # ETL-Sales-Insights-Dashboard
 
 ### 🧠 Sales Performance Dashboard — Power BI + MySQL + Python
