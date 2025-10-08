@@ -1,5 +1,3 @@
-# PREVIEW
-[![Power BI Dashboard](preview.png)](preview.png)
 
 # ETL-Sales-Insights-Dashboard
 
@@ -61,3 +59,7 @@ Load the data and explore the dashboard
 ✅ Total Sales & Profit Overview\
 ✅ Top Performing Products\
 ✅ Regional Sales Breakdown
+
+# PREVIEW
+[![Power BI Dashboard](preview.png)](preview.png)
+
