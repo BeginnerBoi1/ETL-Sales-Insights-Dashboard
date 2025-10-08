@@ -52,9 +52,9 @@ Open Power BI Desktop\
 Click Get Data → MySQL Database\
 Enter your MySQL credentials\
 (Host: localhost, Database: sales_db)\
-Load the data and explore the dashboard\
+Load the data and explore the dashboard
 
 # 📈 Dashboard Features
 ✅ Total Sales & Profit Overview\
 ✅ Top Performing Products\
-✅ Regional Sales Breakdown\
+✅ Regional Sales Breakdown
