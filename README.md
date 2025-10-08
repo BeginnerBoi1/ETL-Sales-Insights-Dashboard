@@ -18,12 +18,19 @@ It’s designed to simulate a real-world data workflow that a Data Engineer or A
 
 # 📦 ETL-SALES-INSIGHTS-DASHBOARD
  ┣ 📁 data/
- ┃ ┗ superstore.csv           
+ 
+ ┃ ┗ superstore.csv
+ 
  ┣ 📁 script/
- ┃ ┗ main.py      
+ 
+ ┃ ┗ main.py
+ 
  ┣ 📁 powerbi/
- ┃ ┗ SalesDashboard.pbix      
- ┣ 📄 requirements.txt         
+ 
+ ┃ ┗ SalesDashboard.pbix 
+ 
+ ┣ 📄 requirements.txt  
+ 
  ┣ 📄 README.md                
 
 # 🚀 Setup Instructions
