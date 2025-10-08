@@ -1,3 +1,4 @@
+
 # ETL-Sales-Insights-Dashboard
 
 ### 🧠 Sales Performance Dashboard — Power BI + MySQL + Python
@@ -58,3 +59,7 @@ Load the data and explore the dashboard
 ✅ Total Sales & Profit Overview\
 ✅ Top Performing Products\
 ✅ Regional Sales Breakdown
+
+# PREVIEW
+[![Power BI Dashboard](preview.png)](preview.png)
+
